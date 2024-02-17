@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning, for now.
 - 🌱 I’m currently learning Python~
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me roman.dudarev.dm@gmail.com
+- 📫 How to reach me: ?
 - 😄 Pronouns: Roman, Nebel, Roman-nebel?
 - ⚡ Fun fact: am a programmer nab, nice to work with you!
 
