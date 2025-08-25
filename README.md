@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nebelius
 - 👀 I’m interested in learning, for now.
-- 🌱 I’m currently learning Python~
+- 🌱 I’m currently learning QA~
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: through Git, for now
 - 😄 Pronouns: nebel
